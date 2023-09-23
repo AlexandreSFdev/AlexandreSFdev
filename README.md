@@ -1,14 +1,14 @@
 
 # Alexandre Silberstein Fernandes
-Alexandre, um espírito curioso e falante,
-Na juventude, o mundo da TI o fascinou de instante,
-Mas a vida o levou por outros rumos, distintos caminhos,
+Alexandre, um espírito curioso e falante,  
+Na juventude, o mundo da TI o fascinou de instante,  
+Mas a vida o levou por outros rumos, distintos caminhos,  
 Até que, aos quarenta, decidiu seguir seus destinos.
 
-A paixão por tecnologia sempre viveu em seu coração,
-Mesmo com as reviravoltas da vida, não perdeu a direção,
-Agora, com determinação e sede de aprender,
-Na arte da programação, ele resolveu se envolver.
+A paixão por tecnologia sempre viveu em seu coração,  
+Mesmo com as reviravoltas da vida, não perdeu a direção,  
+Agora, com determinação e sede de aprender,  
+Na arte da programação, ele resolveu se envolver.  
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/silberstein28/)
