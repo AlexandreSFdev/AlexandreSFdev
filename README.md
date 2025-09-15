@@ -10,8 +10,7 @@
 [//]: # (Agora, com determinação e sede de aprender,  )
 [//]: # (Na arte da programação, ele resolveu se envolver.  )
 
-### Conecte-se comigo
-[![DIO Profile](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/silberstein28/)
+### 👉 Connect with me
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:alexandresfdev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/alexandre-silberstein-fernandes-a55027237/)
 
